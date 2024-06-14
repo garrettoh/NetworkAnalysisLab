@@ -5,4 +5,4 @@
 complete but not documented yet
 
 
-Tools Used- snort, wireshark, tshark, tcpdump, zeek. snort wireshark and tshark are my favorite.
+Tools Used- Snort, Wireshark, Tshark, TCPdump, zeek. Snort Wireshark and Tshark are my favorite.
